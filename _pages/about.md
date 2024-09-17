@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I'm a second year graduate student from college of electrical engineering, [Zhejiang University](https://www.zju.edu.cn/). My primary research interests encompass robotics, UAV and autonomous driving, with a particular emphasis on multi-modal localization and global re-localization.
+
+I previously spent six months as an intern in Professor [Tong Qin](https://qintong.xyz/)'s research group, where I focused primarily on multi-modal mapping and long-term visual relocalization.
+
+If you have any good ideas or cooperation intentions, please feel free to contact me at [huangjy3@zju.edu.cn](huangjy3@zju.edu.cn).
 
 A data-driven personal website
 ======
